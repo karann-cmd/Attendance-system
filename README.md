@@ -18,5 +18,7 @@ Real-time attendance system using face recognition via webcam.
 
 ## Setup
 pip install -r requirements.txt
+
 python manage.py migrate
+
 python manage.py runserver
